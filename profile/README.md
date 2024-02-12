@@ -14,8 +14,8 @@
 # 🎤 팀원 소개
 |front-end|back-end|
 |:-----:|:---:|
-|[<img src="https://github.com/ppocchi.png" width="100px">](https://github.com/ppocchi)|[<img src="https://github.com/tfer2442.png" width="100px">](https://github.com/tfer2442)|
-|[김아진](https://github.com/ppocchi)|[조대성](https://github.com/tfer2442)|
+|[<img src="https://github.com/ppochaco.png" width="100px">](https://github.com/ppochaco)|[<img src="https://github.com/tfer2442.png" width="100px">](https://github.com/tfer2442)|
+|[김아진](https://github.com/ppochaco)|[조대성](https://github.com/tfer2442)|
 
 - front-end: [https://github.com/K-trendiest/K-trendiest-frontend](https://github.com/K-trendiest/K-trendiest-frontend)
 - back-end: [https://github.com/K-trendiest/K-trendiest-backend](https://github.com/K-trendiest/K-trendiest-backend)
